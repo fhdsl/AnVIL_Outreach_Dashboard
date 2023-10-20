@@ -13,7 +13,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 
 # About this Resource {-}
  
-lorem ipsum
+This is a collection of upcoming opportunities to engage with AnVIL Outreach.
 
 ## Upcoming AnVIL Events (Portal) {-}
 
