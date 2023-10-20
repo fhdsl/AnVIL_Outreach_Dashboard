@@ -11,9 +11,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 
 
-# About this Resource {-}
- 
-This is a collection of upcoming opportunities to engage with AnVIL Outreach.
+# Events
 
 ## Upcoming AnVIL Events (Portal) {-}
 
@@ -25,8 +23,9 @@ source("scripts/render_events.R")
 knitr::kable(make_events_table(), format = "html")
 ```
 
+# Materials
+
 ## AnVIL Collection {-}
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
-
 
