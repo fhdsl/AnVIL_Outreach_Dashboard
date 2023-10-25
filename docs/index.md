@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "October 20, 2023"
+date: "October 25, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -11,9 +11,7 @@ favicon: assets/AnVIL_style/anvil_favicon.ico
 ---
 
 
-# About this Resource {-}
- 
-This is a collection of upcoming opportunities to engage with AnVIL Outreach.
+# Events
 
 ## Upcoming AnVIL Events (Portal) {-}
 
@@ -116,8 +114,9 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
 </tbody>
 </table>
 
+# Materials
+
 ## AnVIL Collection {-}
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
-
 
