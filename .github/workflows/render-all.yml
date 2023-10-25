@@ -1,10 +1,12 @@
 
 # Candace Savonen Apr 2021
 
-name: Render all output courses
+name: Render all
 
 on:
   workflow_dispatch:
+  schedule:
+  - cron: "0 3 * * *"
   push:
     branches: [ main, staging ]
     paths:
