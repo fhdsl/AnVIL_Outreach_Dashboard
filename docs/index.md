@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "October 26, 2023"
+date: "October 27, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -26,11 +26,6 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Oct 2023 </td>
-   <td style="text-align:left;"> AnVIL Demos: DUOS - A tour of the AnVIL's innovative data sharing platform, and how it can help your research </td>
-   <td style="text-align:left;"> Virtual </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> Nov 2023 </td>
    <td style="text-align:left;"> American Society of Human Genetics 2023 </td>
