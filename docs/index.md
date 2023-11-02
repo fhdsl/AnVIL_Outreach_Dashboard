@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "November 01, 2023"
+date: "November 02, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -26,11 +26,6 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Nov 2023 </td>
-   <td style="text-align:left;"> American Society of Human Genetics 2023 </td>
-   <td style="text-align:left;"> Walter E. Washington Convention Center, 801 Mt Vernon Pl NW, Washington, DC 20001 </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> Nov 2023 </td>
    <td style="text-align:left;"> AnVIL Demos: Machine Learning with Bioconductor </td>
