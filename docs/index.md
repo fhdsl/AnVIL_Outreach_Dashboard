@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "November 16, 2023"
+date: "November 17, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -26,11 +26,6 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Nov 2023 </td>
-   <td style="text-align:left;"> AnVIL Demos: Machine Learning with Bioconductor </td>
-   <td style="text-align:left;"> Virtual </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> Dec 2023 </td>
    <td style="text-align:left;"> CSHL Genome Informatics 2023 </td>
