@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "February 11, 2024"
+date: "February 18, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -26,11 +26,6 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Feb 2024 </td>
-   <td style="text-align:left;"> Advances in Genome Biology and Technology 2024 </td>
-   <td style="text-align:left;"> Orlando, FL </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> Feb 2024 </td>
    <td style="text-align:left;"> AnVIL Demos </td>
