@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "April 07, 2024"
+date: "April 14, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -26,11 +26,6 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Apr 2024 </td>
-   <td style="text-align:left;"> AnVIL NHGRI Research Training and Career Development Annual Meeting 2024 Workshop </td>
-   <td style="text-align:left;"> Seattle, WA, USA </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> Apr 2024 </td>
    <td style="text-align:left;"> AnVIL Demos </td>
