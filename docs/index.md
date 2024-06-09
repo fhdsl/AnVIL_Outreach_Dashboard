@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "June 02, 2024"
+date: "June 09, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
