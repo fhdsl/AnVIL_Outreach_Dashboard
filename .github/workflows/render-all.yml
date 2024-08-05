@@ -1,10 +1,20 @@
 
 # Candace Savonen Apr 2021
 
+# +---------------- minute (0 - 59)
+# |  +------------- hour (0 - 23)
+# |  |  +---------- day of month (1 - 31)
+# |  |  |  +------- month (1 - 12)
+# |  |  |  |  +---- day of week (0 - 6) (Sunday=0 or 7)
+# |  |  |  |  |
+# *  *  *  *  *  command to be executed
+
 name: Render all output courses
 
 on:
   workflow_dispatch:
+  schedule:
+  - cron: "0 3 * * 0"
   push:
     branches: [ main, staging ]
     paths:
@@ -33,6 +43,16 @@ jobs:
       make_book_txt: "${{ env.MAKE_BOOK_TXT }}"
       rendering_docker_image: "${{ env.RENDERING_DOCKER_IMAGE }}"
       toggle_quiz_check: "${{ env.CHECK_QUIZZES }}"
+      
+  build-portal-events:
+    name: Gather Portal Events
+    needs: yaml-check
+    uses: ./.github/workflows/gather-portal-events.yml
+    with:
+      render-type: 'main'
+      repository: $GITHUB_REPOSITORY
+    secrets:
+      gh_pat: ${{ secrets.GH_PAT }}
 
   render-bookdown:
     name: Render bookdown
