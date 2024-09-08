@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "September 01, 2024"
+date: "September 08, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -44,6 +44,11 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
   <tr>
    <td style="text-align:left;"> Nov 2024 </td>
    <td style="text-align:left;"> AnVIL Community Conference 2024 </td>
+   <td style="text-align:left;"> Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Nov 2024 </td>
+   <td style="text-align:left;"> CSHL Biological Data Science Meeting 2024 </td>
    <td style="text-align:left;"> Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA </td>
   </tr>
   <tr>
