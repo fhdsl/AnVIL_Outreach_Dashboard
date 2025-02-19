@@ -1,6 +1,6 @@
 ---
 title: "AnVIL Outreach Dashboard"
-date: "February 16, 2025"
+date: "February 19, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -74,4 +74,3 @@ We'd love to see you at an upcoming event! Here are a few upcoming events that m
 ## AnVIL Collection {-}
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
-
