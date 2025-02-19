@@ -19,7 +19,7 @@ jobs:
     name: Gather Portal Events
     runs-on: ubuntu-latest
     container:
-      image: jhudsl/course_template:main
+      image: jhudsl/base_ottr:main
 
     steps:
       - name: Checkout files
