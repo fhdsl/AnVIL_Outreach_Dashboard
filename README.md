@@ -8,7 +8,7 @@ You can see the rendered course material here: [https://hutchdatascience.org/AnV
 
 ## About this dashboard
 
-The goal of this dashboard is to {info on what this course introduces}
+The goal of this dashboard is to display outreach metrics associated with [The AnVIL Project](https://anvilproject.org/). This is currently under construction.
 
 ## Encountering problems?
 
